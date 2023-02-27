@@ -317,7 +317,7 @@ The MIT License (MIT)
 Copyright (c) 2011 Michael Dowling <mtdowling@gmail.com>
 Copyright (c) 2012 Jeremy Lindblom <jeremeamia@gmail.com>
 Copyright (c) 2014 Graham Campbell <hello@gjcampbell.co.uk>
-Copyright (c) 2015 Márk Sági-Kazár <mark.sagikazar@gmail.com>
+Copyright (c) 2015 Mﾃ｡rk Sﾃ｡gi-Kazﾃ｡r <mark.sagikazar@gmail.com>
 Copyright (c) 2015 Tobias Schultze <webmaster@tubo-world.de>
 Copyright (c) 2016 Tobias Nyholm <tobias.nyholm@gmail.com>
 Copyright (c) 2016 George Mponos <gmponos@gmail.com>
@@ -376,7 +376,7 @@ THE SOFTWARE.
 The MIT License (MIT)
 
 Copyright (c) 2015 Michael Dowling <mtdowling@gmail.com>
-Copyright (c) 2015 Márk Sági-Kazár <mark.sagikazar@gmail.com>
+Copyright (c) 2015 Mﾃ｡rk Sﾃ｡gi-Kazﾃ｡r <mark.sagikazar@gmail.com>
 Copyright (c) 2015 Graham Campbell <hello@gjcampbell.co.uk>
 Copyright (c) 2016 Tobias Schultze <webmaster@tubo-world.de>
 Copyright (c) 2016 George Mponos <gmponos@gmail.com>
