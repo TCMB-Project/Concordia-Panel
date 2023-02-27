@@ -9,5 +9,4 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Concordia Panel</title>
 </head>
-<span class="material-symbols-outlined">attach_money</span>
 </html>
