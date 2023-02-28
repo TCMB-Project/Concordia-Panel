@@ -1,9 +1,9 @@
 <?php
-require_once __DIR__ . '/../vendor/autoload.php';
 session_start();
-
+require_once __DIR__ . '/../vendor/autoload.php';
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__."/..");
 $dotenv->load(__DIR__."/..");
+
 
 $provider = new \Wohali\OAuth2\Client\Provider\Discord([
     'clientId' => $_ENV['DISCORD_clientId'],
@@ -11,7 +11,7 @@ $provider = new \Wohali\OAuth2\Client\Provider\Discord([
     'redirectUri' => (empty($_SERVER['HTTPS']) ? 'http://' : 'https://'). $_SERVER['HTTP_HOST']. "/concordiaPanel/oauth2/discord.php"
 ]);
 $options = [
-    'scope' => ['identify', 'guilds']
+    'scope' => ['identify']
 ];
 
 if(!isset($_GET['code'])){

@@ -1,0 +1,46 @@
+header, main, footer {
+  padding-left: 300px;
+}
+
+@media only screen and (max-width : 1920px) {
+  header, main, footer {
+    padding-left: 0;
+  }
+}
+
+.flex {
+display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+padding-top: 10px;
+text-align: center;
+}
+
+@media (prefers-color-scheme: light) {
+  .agree {
+    color: #000;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #fff;
+  }
+  .card-panel{
+    color: #000;
+  }
+  input{
+    color: #000;
+  }
+  .modal-content {
+    color: #000;
+  }
+  #black {
+    color: #000;
+  }
+}
